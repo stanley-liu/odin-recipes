@@ -1,9 +1,14 @@
+html {
+    background-color: #FFFAED;
+}
+
 .introduction {
     text-align: center;
 }
 
-.recipeimg {
+.img_recipe {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 400px;
 }
